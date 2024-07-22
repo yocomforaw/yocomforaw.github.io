@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yocomforaw.github.io/sitemap
+Sitemap: https://yocomforaw.github.io/app/sitemap
+Sitemap: https://yocomforaw.github.io/assets/sitemap
+Sitemap: https://yocomforaw.github.io/css/sitemap
+Sitemap: https://yocomforaw.github.io/includes/sitemap
+Sitemap: https://yocomforaw.github.io/item/sitemap
+Sitemap: https://yocomforaw.github.io/src/sitemap
